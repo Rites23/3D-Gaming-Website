@@ -1,6 +1,8 @@
 import Header from "./components/header";
 import Hero from "./components/Hero";
 import Characters from "./components/Characters";
+import Arena from "./components/Arena";
+import Footer from "./components/Footer";
 
 const App = () => {
   return (
@@ -8,6 +10,8 @@ const App = () => {
       <Header />
       <Hero />
       <Characters />
+      <Arena />
+      <Footer />
 
     </div>
   );

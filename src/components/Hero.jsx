@@ -31,7 +31,7 @@ const Hero = () => {
         <div className="flex items-center gap-5 text-3xl font-extrabold text-gray-200">
           <img
             className="md:h-16 h-12"
-            src="public/images/illu-logo.png"
+            src="/images/illu-logo.png"
             alt="Illu-logo"
           />
           ZERO
